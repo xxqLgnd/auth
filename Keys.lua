@@ -1,3 +1,7 @@
+local Config = {
+    ["Enable"] = true
+}
+
 local Library = {
     ["xxqLgnd_b3M8p4"] = "df777bfa-a480-4f38-adce-0c3e37bf9983",
     ["xxqLgnd_c5N1r7"] = "b402f012-09b5-48f9-867f-6aeff5bc0a7c",
